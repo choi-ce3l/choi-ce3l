@@ -12,14 +12,12 @@
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=choi-ce3l&show_icons=true&count_private=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ce3l&layout=compact&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ce3l&layout=compact&langs_count=8&cache_seconds=1800" />
 </p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=choi-ce3l" />
-</p>
+
+> 📈 My contribution activity is shown in the graph below.
 
 ### 📫 Contact
 - 📧 Email: **hjchoi@yonsei.ac.kr**
