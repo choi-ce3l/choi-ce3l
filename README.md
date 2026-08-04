@@ -14,11 +14,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=choi-ce3l&show_icons=true&theme=default&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ce3l&layout=compact&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=choi-ce3l&show_icons=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ce3l&layout=compact&cache_seconds=1800" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=choi-ce3l&theme=default" />
+<img src="https://streak-stats.demolab.com/?user=choi-ce3l" />
 </p>
 
 ### 📫 Contact
